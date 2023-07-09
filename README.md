@@ -1,2 +1,2 @@
 # opl-workflows
-Build and test sample LLM powered Applications
+LLM powered question answering service with custom Data using Pinecone, OpenAI and Langchain
